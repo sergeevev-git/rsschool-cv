@@ -46,3 +46,16 @@ function isMAC48Address(macAddr) {
     }
 }
 ```
+
+## Courses
+
+### Web development
+
+-   "Python Web Developer", Skillfactory, June 2020-present
+-   "JavaScript Junior Frontend Developer", Vladilen Minin, https://vladilen.ru, July 2021-current time
+-   "JavaScript + React ‑ from zero to result", Udemy, Ivan Petrichenko, September-December 2019
+
+## Languages
+
+-   _Russian_ - native speaker
+-   _English_ - B1

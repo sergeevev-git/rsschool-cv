@@ -9,7 +9,7 @@
 
 ## About me
 
-He has many years of experience working in service providers. Now I decided to change the direction of activity to programming, as I have always gravitated to this activity. I have the following personal and business qualities: responsibility, efficiency, learning ability, ability to work in a team, energy, high working capacity, active life position.
+I have many years of experience working in service providers. Now I decided to change the direction of activity to programming, as I have always gravitated to this activity. I have the following personal and business qualities: responsibility, efficiency, learning ability, ability to work in a team, energy, high working capacity, active life position.
 
 ## My skills:
 
@@ -47,12 +47,16 @@ function isMAC48Address(macAddr) {
 }
 ```
 
+## Education
+
+-   Chelyabinsk State Pedagogical University, teacher of mathematics and Computer Science, 2001-2006
+
 ## Courses
 
 ### Web development
 
 -   "Python Web Developer", Skillfactory, June 2020-present
--   "JavaScript Junior Frontend Developer", Vladilen Minin, https://vladilen.ru, July 2021-current time
+-   "JavaScript Junior Frontend Developer", Vladilen Inc, July 2021-present
 -   "JavaScript + React ‑ from zero to result", Udemy, Ivan Petrichenko, September-December 2019
 
 ## Languages

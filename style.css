@@ -218,6 +218,7 @@ li {
     -ms-flex-align: center;
     align-items: center;
 }
-.footer-github-link {
+.footer-github-link,
+.footer-github-year {
     margin-right: 20px;
 }
